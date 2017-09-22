@@ -1,9 +1,9 @@
-#ifndef BIBLIO_CI_H
-#define BIBLIO_CI_H
+#ifndef ICTEST_H
+#define ICTEST_H
  
 #include <Arduino.h>
  
-class biblioCI
+class ICtest
 {
 public:
    Info(int nCI);
